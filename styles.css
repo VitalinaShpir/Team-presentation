@@ -9,11 +9,21 @@
     margin-right: auto;
     text-align: center;
   }
+
+  .title{
+    font-family: Smokum;
+    font-size: 80px;
+
+  }
+
+  .subtitle{
+    font-family: Roboto;
+  }
   
   .mainbody {
     width: 100vw;
     min-height: 100vh;
-    background-color: #7163F0;
+    background-color: #fff;
     display: flex;
     justify-content: center;
     align-items: center;
