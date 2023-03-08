@@ -19,7 +19,10 @@
   .subtitle{
     font-family: Roboto;
   }
-  
+  .name{
+    font-family: Roboto;
+    font-size: 12px;
+  }
   .mainbody {
     width: 100vw;
     min-height: 100vh;
