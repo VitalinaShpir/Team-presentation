@@ -160,3 +160,12 @@ body {
     transform: translate(0, -3.5rem);
   }
 }
+
+.maintitle{
+  position: relative;
+}
+.goose{
+  position: absolute;
+  top: 0;
+  left: 200px;
+}
